@@ -15,5 +15,7 @@ Q(3,1)=sin(incl)*sin(w);
 Q(3,2)=sin(incl)*cos(w);
 Q(3,3)=cos(incl);
 
+% sunny rules
+
 end
 
